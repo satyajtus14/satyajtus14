@@ -13,10 +13,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user={satyajtus14}&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={BhLpj7BXttcbSCIEsWNtwxv9}&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
----
+--- -->
 
 
 
